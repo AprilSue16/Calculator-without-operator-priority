@@ -1,5 +1,4 @@
 # [Python]Calculator without operator priority
 Calculate without operator priority
 
-1.사칙연산 함수 만들기
-2.
+연산자 우선 순위가 없는 계산기
